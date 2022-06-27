@@ -1,2 +1,2 @@
-# Jenkins-openshify-pipeline
+# Jenkins-openshift-pipeline
 Jenkins-openshify-pipeline
